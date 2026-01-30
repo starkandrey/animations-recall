@@ -8,3 +8,15 @@ body {
   max-width: 100%;
   min-height: 100vh;
 }
+
+form {
+  input {
+    width: 200px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid rgb(rgb(8, 7, 7), rgb(28, 218, 28), rgb(25, 25, 83));
+    background-color: aquamarine;
+    outline: none;
+    padding-left: 10px;
+  }
+}
